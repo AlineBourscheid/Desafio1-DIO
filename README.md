@@ -1,2 +1,2 @@
-# Desafio1-DIO
-Repositorio para o primeiro projeto do curso de Linux da Dio.me
+# Desafio de projeto sobre Git/GitHub da Dio
+Repositorio do projeto. 
